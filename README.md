@@ -12,6 +12,11 @@ Convert tool to upload videos with more than a minute long on Tiktok.
 Open the MTAM and just drag n' drop your .webm/.mp4 video on the console, than the file path should apper, after that just hit Enter and your video will be ready to upload on Tiktok.
 ![cyex](https://i.imgur.com/lQ5d7KI.gif)
 
+## 100% Safe[Virus Free]
+![cyex](https://i.imgur.com/dFWDGOP.png)
+[VirusTotal Scan](https://www.virustotal.com/gui/file/29e13c5c19297348ec7fc776e8df37d011ff92daa62d43819159247f3b4b854c/detection) <br />
+Scan hash:29e13c5c19297348ec7fc776e8df37d011ff92daa62d43819159247f3b4b854c
+
 ## Requirements:
 #### Windows 7,8 or 10
 
