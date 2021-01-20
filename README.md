@@ -1,14 +1,15 @@
 # More Than A Minute - Tiktok
 ## Author: github.com/SrMilton
 
-Convert tool to upload .webm videos with more than a minute long on Tiktok.
+Convert tool to upload videos with more than a minute long on Tiktok.
 
 ## Features:
 #### 1-Click converter
 #### Webm support
+#### MP4 support
 
 ## How to use:
-Open the MTAM and just drag n' drop your webm video on the console, than the file path should apper, after that just hit Enter and your video will be ready to upload on Tiktok.
+Open the MTAM and just drag n' drop your .webm/.mp4 video on the console, than the file path should apper, after that just hit Enter and your video will be ready to upload on Tiktok.
 ![cyex](https://i.imgur.com/lQ5d7KI.gif)
 
 ## Requirements:
