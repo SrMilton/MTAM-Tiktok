@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
@@ -5,6 +6,10 @@
 #include <fstream>
 #include <Windows.h>
 #include <algorithm>
+#include <string>
+#include <propsys.h>
+#include <mfidl.h>
+
 
 using namespace std;
 
