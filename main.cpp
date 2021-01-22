@@ -4,10 +4,8 @@ int main()
 {
 
 	cout << "File name or path: ";
-	cin >> filename;
+	getline(std::cin, filename);
 	filename.erase(remove(filename.begin(), filename.end(), '"'), filename.end());//Removing "
-	cout << filename;
-
 
 	if (strcmp(extension(filename).c_str(), "webm")==0 && strcmp(extension(filename).c_str(), "mp4")==0)
 	{
@@ -21,6 +19,7 @@ int main()
 
 	if (binaryFile.is_open())
 	{
+
 		while (!binaryFile.eof()) 
 		{
 			if (!strcmp(extension(filename).c_str(), "webm")) //Converter WEBM
