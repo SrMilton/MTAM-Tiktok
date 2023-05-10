@@ -3,6 +3,9 @@
 
 Convert tool to upload videos with more than a minute long on Tiktok.
 
+### #PATCHED BY TIKTOK
+#### MTAM no longer works and Tiktok has now implemented this function natively.
+
 ## Features:
 #### 1-Click converter
 #### Webm support
